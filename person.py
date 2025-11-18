@@ -18,6 +18,7 @@ person1 = Person("Max", 25)
 person2 = Person("Lorenz", 30)
 person3 = Person("Jonss", 15)
 
+
 print(person1.vorstellen())
 print(person2.vorstellen())
 print(person3.vorstellen())
